@@ -45,6 +45,8 @@ Uniswap V3 Dashboard is a powerful data analysis and visualization tool designed
 
 ## Preview
 ![Alt Text](Screenshot_68.png)
+![Alt Text](bff9ce87c536094085995f4e6aa845cd6550f6bfbcaeb0d29bc4963a.png)
+![Alt Text](c82ccaa26101719c9c2161877ae3419f699007a6ec04897d21210b14.png)
 
 ## Contributing
 We welcome contributions! Feel free to fork the repository, create a new branch, and submit a pull request with your enhancements.
