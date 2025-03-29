@@ -43,6 +43,9 @@ Uniswap V3 Dashboard is a powerful data analysis and visualization tool designed
 - Generate analytical reports to track performance over time.
 - Customize visualizations to focus on specific trading pairs or liquidity pools.
 
+## Preview
+![Alt Text](Screenshot_68.png)
+
 ## Contributing
 We welcome contributions! Feel free to fork the repository, create a new branch, and submit a pull request with your enhancements.
 
