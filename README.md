@@ -50,7 +50,7 @@ We welcome contributions! Feel free to fork the repository, create a new branch,
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Contact
-For questions or collaborations, reach out via GitHub Issues or email: **your.email@example.com**.
+For questions or collaborations, reach out via GitHub Issues or email: **ompekp@gmail.com**.
 
 ---
 🚀 **Enhance your Uniswap V3 trading insights with this powerful dashboard!**
